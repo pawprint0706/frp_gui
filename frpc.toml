@@ -1,0 +1,9 @@
+[common]
+server_addr = "127.0.0.1"
+server_port = 7000
+token = "12345qwert"
+
+[MyPC_VNC]
+type = "tcp"
+local_port = 5900
+remote_port = 12345

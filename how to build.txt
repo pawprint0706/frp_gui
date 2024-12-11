@@ -1,0 +1,2 @@
+pyinstaller frp_gui.py --onefile --windowed --add-binary "frpc.exe;."
+pyinstaller frps_gui.py --onefile --windowed --add-binary "frps.exe;."
